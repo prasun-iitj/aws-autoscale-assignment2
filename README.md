@@ -27,7 +27,7 @@ Amazon Web Services (AWS)
 - All other ports denied by default
 
 ## Demo Video
-[Click here to watch the demo]([YOUR-VIDEO-LINK-HERE](https://www.youtube.com/watch?v=URprMfupTwg))
+https://www.youtube.com/watch?v=URprMfupTwg
 
 ## Screenshots
 All screenshots are uploaded in this repository.
